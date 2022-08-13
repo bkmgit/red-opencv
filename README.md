@@ -16,7 +16,7 @@ gobject-introspection gem is a Ruby bindings of GObject Introspection. Red OpenC
 
 ## Install
 
-Install OpenCV GLib before install Red OpenCV. Use [packages.red-data-tools.org][packages-red-data-tools-org] for installing OopenCV GLib.
+Install OpenCV GLib before install Red OpenCV. Use [packages.red-data-tools.org][packages-red-data-tools-org] for installing OpenCV GLib.
 
 Install Red OpenCV after you install OpenCV GLib:
 
